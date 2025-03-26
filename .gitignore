@@ -1,0 +1,8 @@
+MIDTERM*
+Report.pdf
+~$Report.docx
+*.o
+~$*.docx
+*.exe
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
